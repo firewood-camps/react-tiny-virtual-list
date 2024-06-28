@@ -1,6 +1,6 @@
 {
   "name": "react-tiny-virtual-list",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A tiny but mighty list virtualization component, with zero dependencies 💪",
   "main": "build/react-tiny-virtual-list.cjs.js",
   "module": "build/react-tiny-virtual-list.es.js",
@@ -23,7 +23,7 @@
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "react": "15.x || 16.x"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@types/jest": "^20.0.8",
@@ -59,18 +59,18 @@
     "typescript": "2.8.3"
   },
   "author": {
-    "name": "Clauderic Demers",
-    "email": "me@ced.io"
+    "name": "Buck OLeary on the shoulders of Clauderic",
+    "email": "buck@firewoodcamps.com"
   },
-  "user": "clauderic",
-  "homepage": "https://github.com/clauderic/react-tiny-virtual-list",
+  "user": "buck3000",
+  "homepage": "https://github.com/firewoodcamps/react-tiny-virtual-list",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-tiny-virtual-list.git"
+    "url": "https://github.com/firewoodcamps/react-tiny-virtual-list.git"
   },
   "bugs": {
-    "url": "https://github.com/clauderic/react-tiny-virtual-list/issues"
+    "url": "https://github.com/firewoodcamps/react-tiny-virtual-list/issues"
   },
   "keywords": [
     "react",
